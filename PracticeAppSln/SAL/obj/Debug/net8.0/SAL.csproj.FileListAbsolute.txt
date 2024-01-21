@@ -1,0 +1,17 @@
+C:\Users\Dell\Desktop\Employee\PracticeAppSln\SAL\bin\Debug\net8.0\SAL.deps.json
+C:\Users\Dell\Desktop\Employee\PracticeAppSln\SAL\bin\Debug\net8.0\SAL.dll
+C:\Users\Dell\Desktop\Employee\PracticeAppSln\SAL\bin\Debug\net8.0\SAL.pdb
+C:\Users\Dell\Desktop\Employee\PracticeAppSln\SAL\bin\Debug\net8.0\DAO.dll
+C:\Users\Dell\Desktop\Employee\PracticeAppSln\SAL\bin\Debug\net8.0\Entity.dll
+C:\Users\Dell\Desktop\Employee\PracticeAppSln\SAL\bin\Debug\net8.0\DAO.pdb
+C:\Users\Dell\Desktop\Employee\PracticeAppSln\SAL\bin\Debug\net8.0\Entity.pdb
+C:\Users\Dell\Desktop\Employee\PracticeAppSln\SAL\obj\Debug\net8.0\SAL.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Employee\PracticeAppSln\SAL\obj\Debug\net8.0\SAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Employee\PracticeAppSln\SAL\obj\Debug\net8.0\SAL.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Employee\PracticeAppSln\SAL\obj\Debug\net8.0\SAL.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Employee\PracticeAppSln\SAL\obj\Debug\net8.0\SAL.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Employee\PracticeAppSln\SAL\obj\Debug\net8.0\SAL.csproj.CopyComplete
+C:\Users\Dell\Desktop\Employee\PracticeAppSln\SAL\obj\Debug\net8.0\SAL.dll
+C:\Users\Dell\Desktop\Employee\PracticeAppSln\SAL\obj\Debug\net8.0\refint\SAL.dll
+C:\Users\Dell\Desktop\Employee\PracticeAppSln\SAL\obj\Debug\net8.0\SAL.pdb
+C:\Users\Dell\Desktop\Employee\PracticeAppSln\SAL\obj\Debug\net8.0\ref\SAL.dll

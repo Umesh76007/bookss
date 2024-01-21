@@ -1,0 +1,18 @@
+@using Entity;
+<h3>Update the Employee detils</h3>
+@{
+    //Employee emp=ViewBag.employee;
+    <form method="post" action="/employee/update">
+        <table>
+            <tr>
+                <td>Id :</td>
+                <td><input id="id" name="Id"   value="@Model.Id"/></td>
+            </tr>
+            <tr>
+                <td>Name :</td>
+                <td><input type="text" id="name" name="Name" value="@Model.Name"/></td>
+            </tr>
+        </table>
+        <button type="submit" id="btn">Update</button>
+    </form>
+}

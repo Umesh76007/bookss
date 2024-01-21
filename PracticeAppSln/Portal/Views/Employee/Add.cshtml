@@ -1,0 +1,21 @@
+@using Entity;
+<h3>Add new Employee</h3>
+@{
+    Employee emp=new Employee();
+
+}
+<form method="post" >
+    <table>
+        <tr>
+            <th>Id :</th>
+            <td><input type="number" name="Id" value="@emp.Id" id="id" /></td>
+        </tr>
+        <tr>
+            <td>Name :</td>
+            <td><input type="text" value="@emp.Name" name="Name" id="nm"/></td>
+        </tr>
+        <tr>
+           <td> <button type="submit" name="btn">Register</button></td>
+        </tr>
+    </table>
+</form>

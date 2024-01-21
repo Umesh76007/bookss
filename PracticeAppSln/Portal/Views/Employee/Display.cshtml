@@ -1,0 +1,24 @@
+@using Entity;
+<h3>In All Employees</h3>
+@{
+        List<Employee> emp=(List<Employee>)ViewData["employees"];
+}
+<table>
+    <th>Id</th>
+    <th>Name</th>
+    @{
+        foreach (Employee emps in emp)
+        {
+            <tr>
+                <td>@emps.Id</td>
+                <td>@emps.Name</td>
+                <td>
+                    <a href="/employee/update/@emps.Id">Update</a>
+                    <a href="/employee/delete/@emps.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    }
+       
+</table>
+<a href="/employee/add" >Add new Employee</a>
